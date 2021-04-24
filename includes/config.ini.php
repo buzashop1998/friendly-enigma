@@ -5,9 +5,9 @@ user@domain
 
  $webi_conf['user']="admin";
  $webi_conf['pass']="administrator";
- $webi_conf['host']="us-cdbr-east-03.cleardb.com";
+ $webi_conf['host']="localhost";
  $webi_conf['port']=3306;
- $webi_conf['domain']="borexv2-onecvv.herokuapp.com";
+ $webi_conf['domain']="localhost:81";
   
  
  $webi_conf['logtxt']=false; // ведение лога false | true
